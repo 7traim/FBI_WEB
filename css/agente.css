@@ -502,7 +502,7 @@ footer{
     }
 
     .agentes__tittle{
-        color: var(--main-color);
+        color: var(--boton-color);
         width: 100%;
         text-align: center;
         font-size: 3.5rem;
