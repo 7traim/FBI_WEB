@@ -2389,9 +2389,9 @@ html{
         .logo__tittle img{
             z-index: 3;
             width: 15rem;
-            padding: 2rem;
+            padding: 0.5rem;
             background: #003D7B;
-            border-radius: 10rem;
+            border-radius:10rem;
             border: 1.5px solid var(--boton-color);
             
         }
@@ -2406,7 +2406,7 @@ html{
             position: absolute;
             top: -71rem;
             width: 88.5%;
-            height: 4rem;
+            height: 3rem;
             display: flex;
             background: var(--main-color);   
             border-radius: 0rem;
@@ -2472,7 +2472,7 @@ html{
             width: 100%;
             height: 55rem;
             z-index: 2;
-            margin-top: -50rem;
+            margin-top: -53rem;
 
         }
 
@@ -2488,7 +2488,7 @@ html{
         }
 
         h1{
-            font-size: 7rem;
+            font-size: 6rem;
             line-height: 1.3;
             margin-bottom: 1rem;
             color: var(--text-color-primary);
